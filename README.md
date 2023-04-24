@@ -8,6 +8,12 @@ The ultimate moneysaving app that has the best buy-1-get-1 offers worldwide. Ent
 #### Responsibilities
 Played part as full stack backend developer, wrote cron jobs and deployed codes to AWS
 
+
+
+
+
+
+
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) E-commerce Website Crawler Python Library
 #### Tools & Technologies
 Python, Scrapy
@@ -28,6 +34,33 @@ With this library, developers and data analysts can save valuable time and resou
 
 Overall, this project demonstrates my proficiency in Python programming, web scraping, and data extraction.
 
+
+
+
+
+
+
+
+
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
+Data Collection and Management for Autoprotect.ai (Django)
+#### Tools & Technologies
+Python, Django
+#### About
+I worked with the Autoprotect team to develop a data collection and management system that allows them to efficiently gather and manipulate data from various sources. Autoprotect.ai is a platform that leverages artificial intelligence to help businesses protect their brand reputation and intellectual property by monitoring and analyzing online content.
+
+As part of the project, I used Django, a popular Python web framework, to build a custom administrative portal using the built-in Django Admin interface. I customized the Django Admin portal to meet the specific needs of the Autoprotect team, such as creating custom data filters and search functionality.
+
+One of the key challenges we faced was integrating the data from different sources and ensuring its accuracy and consistency. To address this, I developed a data pipeline that uses various tools and technologies to automate the data collection process and ensure data quality. This included using APIs, web scraping tools, and data cleaning algorithms.
+
+Throughout the project, I worked closely with the Autoprotect team to understand their specific requirements and to ensure that the system met their needs. I also collaborated with other developers and stakeholders to integrate the system with other parts of the Autoprotect platform.
+
+Overall, the customized Django Admin portal that I developed has significantly improved the efficiency and accuracy of Autoprotect's data management processes. This has enabled the team to provide better insights and services to their clients, helping them protect their brand reputation and intellectual property more effectively.
+
+
+
+
+
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Python Search (Microservice)
 #### Tools & Technologies
 Flask and Elastic Search
@@ -35,6 +68,12 @@ Flask and Elastic Search
 Search module for Entertainer and all its B2C apps. Provide auto suggestions for merchants, outlets, offers, cuisines etc. It also provides outlets listing. It also offers outlets search against different filters like cuisines, offer types, amenities etc and also returns outlets count against applied filters along with filtered outlets. Also provide trending searches in all supported locations separately for all categories. It can also search on different locations against all categories separately.
 #### Responsibilities
 Backend development through Flask utilizing Elastic Search
+
+
+
+
+
+
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Delivery Cashless (Microservice)
 #### Tools & Technologies
