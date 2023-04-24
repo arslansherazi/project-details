@@ -130,7 +130,13 @@ Backend development through Flask utilizing MySQL and Elastic Search
 ##### Features
 Flask, MySQL and Elastic Search to design snack delivery app
 #### About
-Munch is the latest food delivery app that delivers your favorite dishes to your door and supports local restaurants too. It’s free to use and is packed full of discounts for places across Dubai
+Munch is a food delivery app that supports local restaurants and offers rewards to its users. The app delivers popular dishes from various restaurants to users' doorsteps, while also promoting and supporting local businesses in Dubai.
+
+The app's main feature is its unbeatable offers and discounts for takeaway food at restaurants. Users can choose dishes from multiple restaurants and order through the app, which is free to use. The app provides users with restaurant menus and photos, making it easy to browse and select the dishes they want.
+
+Munch's delivery process is contactless, with users ordering and paying through the app. Users earn reward points on every order they make, which can be redeemed for future discounts or other perks.
+
+Overall, Munch is a user-friendly and convenient food delivery app that supports local businesses in Dubai. Its unbeatable offers and rewards incentivize users to order more frequently, while also helping to promote a sustainable and vibrant local food culture.
 #### Responsibilities
 Backend development through Flask utilizing MySQL and Elastic Search
 
