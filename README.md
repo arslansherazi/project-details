@@ -8,6 +8,26 @@ The ultimate moneysaving app that has the best buy-1-get-1 offers worldwide. Ent
 #### Responsibilities
 Played part as full stack backend developer, wrote cron jobs and deployed codes to AWS
 
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) E-commerce Website Crawler Python Library
+#### Tools & Technologies
+Python, Scrapy
+#### About
+This project is a Python library designed to automate the process of crawling e-commerce websites and extracting product data, making it easier for developers and data analysts to collect valuable information for their businesses. The library is built using Python and is tested against a range of popular e-commerce websites.
+
+The key features of this library include:
+
+- Support for crawling multiple e-commerce websites
+- Ability to crawl specific product categories and pages
+- Extracting a variety of product data, including name, price, description, reviews, etc.
+- Built-in error handling and logging
+- Easy integration with existing Python projects
+
+The library is useful for businesses looking to collect data for market research, price monitoring, and other analytical purposes. It can crawl various URLs of product categories, product pages, and extract the product data. The extracted data includes product name, price, description, reviews, and more.
+
+With this library, developers and data analysts can save valuable time and resources by automating the process of data extraction from e-commerce websites. It also provides easy integration with existing Python projects, making it a valuable addition to any data collection pipeline.
+
+Overall, this project demonstrates my proficiency in Python programming, web scraping, and data extraction.
+
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Python Search (Microservice)
 #### Tools & Technologies
 Flask and Elastic Search
