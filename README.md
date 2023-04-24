@@ -42,8 +42,7 @@ Overall, this project demonstrates my proficiency in Python programming, web scr
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) 
-Data Collection and Management for Autoprotect.ai (Django)
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Data Collection and Management for Autoprotect.ai
 #### Tools & Technologies
 Python, Django
 #### About
@@ -83,6 +82,12 @@ Delivery Cashless is a microservice for Entertainer and all its B2C apps for del
 #### Responsibilities
 Played part in backend development in Flask and Elastic Search. Also deployed code changes on AWS
 
+
+
+
+
+
+
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Picpo
 #### Tools & Technologies
 Flask, MongoDB, PostgreSQL, Elastic Search and AWS
@@ -90,6 +95,11 @@ Flask, MongoDB, PostgreSQL, Elastic Search and AWS
 Fully functional clone of Instagram that lets the users do everything they can on Instagram and more
 #### Responsibilities
 Backend development through Flask utilizing MongoDB, PostgreSQL and Elastic Search
+
+
+
+
+
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Online Food Depot App & Merchant Portal
 #### Tools & Technologies
@@ -99,6 +109,11 @@ Mobile application which helps users to order or takeaway food. User can search 
 #### Responsibilities
 Coded backend in Django utilizing MySQL and Elastic Search and deployed codes to AWS
 
+
+
+
+
+
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Pockiit
 #### Features
 Flask, MySQL, Elastic Search and AWS
@@ -106,6 +121,10 @@ Flask, MySQL, Elastic Search and AWS
 Pockiit offers different kind of food & drink offers for redemption but only for students/teachers in UAE. User can register with app using his/her official educational email and avail offers without having any products. Main offers are 2-for-1 and percentage off. User can also redeem offers using NFC and saves money. Pockiit also offers flash deals. User can also see the exact location of merchant on google map.
 #### Responsibilities
 Backend development through Flask utilizing MySQL and Elastic Search
+
+
+
+
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Munch
 ##### Features
