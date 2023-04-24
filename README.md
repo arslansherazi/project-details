@@ -21,12 +21,12 @@ This project involved scraping data from various e-commerce merchants for their 
 
 The project involved scraping data from the following e-commerce merchants:
 
-Costco
-Newegg
-Homedepot
-NFM
-Crutchfield
-HSN
+Costco<br>
+Newegg<br>
+Homedepot<br>
+NFM<br>
+Crutchfield <br>
+HSN <br>
 
 The scraped data was stored in a PostgreSQL database before being used to generate Google Sheets using Google APIs.
 
