@@ -13,6 +13,28 @@ Played part as full stack backend developer, wrote cron jobs and deployed codes 
 
 
 
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Square Trade Revenue Leakage Scraper
+#### Tools & Technologies
+Python, Scrapy, Postgresql, Redis, AWS
+#### About
+This project involved scraping data from various e-commerce merchants for their products across multiple categories. The data collected included product names, prices, descriptions, specifications, protection plans, manufacturer and model information, warranties, summary, breadcrumb, category, and subcategory. The scraping process was optimized using a Redis queue, and the entire infrastructure was deployed on AWS ECS and Lambda.
+
+The project involved scraping data from the following e-commerce merchants:
+
+Costco
+Newegg
+Homedepot
+NFM
+Crutchfield
+HSN
+
+The scraped data was stored in a PostgreSQL database before being used to generate Google Sheets using Google APIs.
+
+
+
+
+
+
 
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) E-commerce Website Crawler Python Library
 #### Tools & Technologies
@@ -88,11 +110,17 @@ Played part in backend development in Flask and Elastic Search. Also deployed co
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Picpo
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Social Media App Backend - A Fully Functional API
 #### Tools & Technologies
 Flask, MongoDB, PostgreSQL, Elastic Search and AWS
 #### About
-Fully functional clone of Instagram that lets the users do everything they can on Instagram and more
+The Social Media App Backend is a fully functional API that powers the app's frontend, providing support for a wide range of features including user authentication and authorization, data storage and retrieval, post creation and management, and more.
+
+The API was built using Flask, a popular Python web development framework, and uses PostgreSQL and MongoDB for data storage and retrieval. Elasticsearch was used for search functionality, providing users with fast and relevant search results.
+
+The API supports uploading and retrieving images and videos for posts, as well as the ability for users to follow and unfollow other users. Users can also like and comment on posts, creating an engaging and interactive experience. In addition, the API provides support for post collections, allowing users to group posts by theme or category.
+
+The API's endpoints were designed to be easy to use and integrate into the app's frontend, allowing for seamless communication between the two parts of the app. The API was thoroughly tested to ensure its functionality and reliability, and follows industry-standard practices for security and performance, ensuring that the app's data and user information remain secure and accessible at all times.
 #### Responsibilities
 Backend development through Flask utilizing MongoDB, PostgreSQL and Elastic Search
 
