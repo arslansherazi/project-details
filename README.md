@@ -13,6 +13,54 @@ Played part as full stack backend developer, wrote cron jobs and deployed codes 
 
 
 
+
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) HelixGPT Manager
+https://www.bmc.com/it-solutions/helixgpt.html
+#### Tools & Technologies
+Fast API, Langchain
+#### About
+HelixGPT Manager is an advanced solution designed to streamline internal development processes by leveraging the power of large language models (LLMs). This project focuses on retrieving logs from various sources such as Jira, Splunk, and ServiceNow, and training multiple LLMs on this data. The goal is to enable internal development teams to interact with these models through a chat interface, allowing them to solve issues efficiently and access detailed analytics. The project is built using LangChain for orchestrating LLMs and FastAPI for serving the application.
+
+
+
+
+
+
+
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Chat With Company Policies
+https://github.com/arslansherazi/chat-with-company-policies
+#### Tools & Technologies
+Langchain, RAG
+#### About
+This is a RAG-based chatbot that interacts with company policies, leveraging OpenAI's ChatGPT model. The system is trained and tested on a comprehensive 62-page document, enabling efficient responses to policy-related queries. The project employs the MMR search technique for enhanced retrieval accuracy. Additionally, the chatbot is designed with the flexibility to integrate other models, such as Gemini, with planned functionality extensions.
+
+This project showcases the application of advanced AI to streamline internal knowledge access and improve company policy adherence.
+
+
+
+
+
+
+
+### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Youhue: A Student Emotional Management Platform
+https://www.theentertainerme.com/
+#### Tools & Technologies
+Django, AWS, Postgres, DRF
+#### About
+As a backend developer for the revolutionary project Youhue, I played a pivotal role in building a unique platform designed to help teachers manage their classrooms by tracking and controlling the emotional states of their students. Using my expertise in Django, PostgreSQL, and Django REST framework, I developed a robust and scalable backend that delivers fast and reliable performance. I collaborated closely with the front-end development team to ensure smooth integration and a seamless user experience.
+
+The Youhue platform is designed to provide teachers with a range of engaging activities to encourage positive emotions and reduce negative ones, such as sadness or anxiety. With easy-to-use tools, teachers can track student progress and view detailed insights on their emotional states, including percentage breakdowns and historical trends. The platform also features a user-friendly interface and customizable workflows, making it easy for teachers and students to sign up and get started.
+
+As a backend developer, my role included designing and implementing core features such as adding new authors, generating new tasks, task tracking and emotions controlling. I also worked on optimizing the platform's performance, security, and scalability to ensure its readiness for future growth.
+
+With Youhue, teachers can create a more positive and supportive learning environment, while students can enjoy a more engaging and fulfilling educational experience. I am proud to have contributed to a project that has the potential to transform the way we approach education and student well-being.
+
+
+
+
+
+
+
 ### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Square Trade Revenue Leakage Scraper
 #### Tools & Technologies
 Python, Scrapy, Postgresql, Redis, AWS
