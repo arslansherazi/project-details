@@ -281,17 +281,17 @@ An intelligent healthcare management system leveraging Google's Agent Developmen
 
 𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
 🏥 𝐃𝐮𝐚𝐥-𝐀𝐠𝐞𝐧𝐭 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: Specialized AI agents for appointment management and medical history tracking with intelligent routing through a root guardrails agent
-📅 𝐀𝐩𝐩𝐨𝐢𝐧𝐭𝐦𝐞𝐧𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Complete appointment lifecycle management including booking, cancellation, rescheduling, and status tracking for both doctors and patients
-📋 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐑𝐞𝐜𝐨𝐫𝐝 𝐒𝐲𝐬𝐭𝐞𝐦: Comprehensive medical history management with diagnosis tracking, symptom documentation, treatment plans, and medication records
-🔒 𝐒𝐚𝐟𝐞𝐭𝐲 & 𝐂𝐨𝐦𝐩𝐥𝐢𝐚𝐧𝐜𝐞: Built-in guardrails ensuring HIPAA compliance and preventing unauthorized medical advice
-📊 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 & 𝐑𝐞𝐩𝐨𝐫𝐭𝐢𝐧𝐠: Medical statistics, patient comparison tools, and comprehensive reporting capabilities for healthcare providers within the chatbot
+📅 𝐀𝐩𝐩𝐨𝐢𝐧𝐭𝐦𝐞𝐧𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Complete appointment lifecycle management including booking, cancellation, rescheduling, and status tracking for both doctors and patients<br>
+📋 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐑𝐞𝐜𝐨𝐫𝐝 𝐒𝐲𝐬𝐭𝐞𝐦: Comprehensive medical history management with diagnosis tracking, symptom documentation, treatment plans, and medication records<br>
+🔒 𝐒𝐚𝐟𝐞𝐭𝐲 & 𝐂𝐨𝐦𝐩𝐥𝐢𝐚𝐧𝐜𝐞: Built-in guardrails ensuring HIPAA compliance and preventing unauthorized medical advice<br>
+📊 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 & 𝐑𝐞𝐩𝐨𝐫𝐭𝐢𝐧𝐠: Medical statistics, patient comparison tools, and comprehensive reporting capabilities for healthcare providers within the chatbot<br>
 
 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻:
-𝐌𝐮𝐥𝐭𝐢-𝐀𝐠𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦: Root guardrails agent with specialized sub-agents for appointments and medical history
-𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞:PostgreSQL with SQLAlchemy ORM for robust data management
-𝐀𝐏𝐈 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧: RESTful services with A2A protocol for agent-to-agent communication
-𝐑𝐨𝐥𝐞-𝐁𝐚𝐬𝐞𝐝 𝐀𝐜𝐜𝐞𝐬𝐬: Secure user authentication with doctor/patient role separation
-𝐃𝐚𝐭𝐚 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧: Alembic for database schema management and versioning
+𝐌𝐮𝐥𝐭𝐢-𝐀𝐠𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦: Root guardrails agent with specialized sub-agents for appointments and medical history <br>
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞:PostgreSQL with SQLAlchemy ORM for robust data management <br>
+𝐀𝐏𝐈 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧: RESTful services with A2A protocol for agent-to-agent communication <br>
+𝐑𝐨𝐥𝐞-𝐁𝐚𝐬𝐞𝐝 𝐀𝐜𝐜𝐞𝐬𝐬: Secure user authentication with doctor/patient role separation <br>
+𝐃𝐚𝐭𝐚 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧: Alembic for database schema management and versioning <br>
 
 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
 ✅ Python 3.13
@@ -321,10 +321,10 @@ The system processes natural language travel queries and coordinates between spe
 
 #### 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
 𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Python, OpenAI Agents SDK & FastMCP servers
-𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: Gradio web interface with responsive design
-𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬: OpenTripMap, Open-Meteo, Booking.com APIs
-𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭: Docker containerization with Docker Compose orchestration
-𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: Microservices with 5 independent MCP servers and 1 Frontend service
+𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: Gradio web interface with responsive design <br>
+𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬: OpenTripMap, Open-Meteo, Booking.com APIs <br>
+𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭: Docker containerization with Docker Compose orchestration <br>
+𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: Microservices with 5 independent MCP servers and 1 Frontend service <br>
 
 #### Skills: 
 OpenAI Agents SDK · Generative AI · Large Language Models (LLM)
@@ -348,13 +348,13 @@ This project creates a structured Knowledge Graph of popular movies, their direc
 #### 🔧 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱:
 𝙉𝙚𝙤4𝙟: To create and store an expressive knowledge graph representing movies, actors, directors, and ratings.
 
-𝙇𝙖𝙣𝙜𝘾𝙝𝙖𝙞𝙣: Used to orchestrate LLM chains and handle query routing, graph context injection, and prompt design.
+𝙇𝙖𝙣𝙜𝘾𝙝𝙖𝙞𝙣: Used to orchestrate LLM chains and handle query routing, graph context injection, and prompt design.<br>
 
-𝙂𝙧𝙖𝙥𝙝 𝙍𝘼𝙂: Custom Graph Retrieval-Augmented Generation setup with Cypher query generation and dynamic LLM-based response synthesis.
+𝙂𝙧𝙖𝙥𝙝 𝙍𝘼𝙂: Custom Graph Retrieval-Augmented Generation setup with Cypher query generation and dynamic LLM-based response synthesis.<br>
 
-𝙊𝙥𝙚𝙣𝘼𝙄: To intelligently generate Cypher queries and summarize responses from the knowledge graph.
+𝙊𝙥𝙚𝙣𝘼𝙄: To intelligently generate Cypher queries and summarize responses from the knowledge graph.<br>
 
-𝙋𝙮𝙩𝙝𝙤𝙣: For full backend implementation, graph population, and data integration.
+𝙋𝙮𝙩𝙝𝙤𝙣: For full backend implementation, graph population, and data integration.<br>
 
 #### ⚙️ 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
  1. Natural language interface to ask movie-related questions like:
