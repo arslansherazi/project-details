@@ -16,8 +16,10 @@ Played part as full stack backend developer, wrote cron jobs and deployed codes 
 
 ### 🟢 HelixGPT Manager
 https://www.bmc.com/it-solutions/helixgpt.html
+
 #### Tools & Technologies
 Fast API, Langchain
+
 #### About
 HelixGPT Manager is a large-scale, enterprise-grade Generative AI platform designed to help organizations build and manage AI-powered chatbots and assistants using their internal platform data. It enables customers to connect multiple enterprise systems and expose their knowledge through secure, conversational AI experiences.
 
@@ -33,8 +35,10 @@ Implemented retrieval-augmented generation (RAG) workflows to deliver context-aw
 
 ### 🟢 Chat With Company Policies
 https://github.com/arslansherazi/chat-with-company-policies
+
 #### Tools & Technologies
 Langchain, RAG
+
 #### About
 This is a RAG-based chatbot that interacts with company policies, leveraging OpenAI's ChatGPT model. The system is trained and tested on a comprehensive 62-page document, enabling efficient responses to policy-related queries. The project employs the MMR search technique for enhanced retrieval accuracy. Additionally, the chatbot is designed with the flexibility to integrate other models, such as Gemini, with planned functionality extensions.
 
@@ -47,9 +51,11 @@ This project showcases the application of advanced AI to streamline internal kno
 
 
 ### 🟢 Youhue: A Student Emotional Management Platform
-https://www.theentertainerme.com/
+https://www.youhue.com/
+
 #### Tools & Technologies
 Django, AWS, Postgres, DRF
+
 #### About
 As a backend developer for the revolutionary project Youhue, I played a pivotal role in building a unique platform designed to help teachers manage their classrooms by tracking and controlling the emotional states of their students. Using my expertise in Django, PostgreSQL, and Django REST framework, I developed a robust and scalable backend that delivers fast and reliable performance. I collaborated closely with the front-end development team to ensure smooth integration and a seamless user experience.
 
@@ -66,8 +72,11 @@ With Youhue, teachers can create a more positive and supportive learning environ
 
 
 ### 🟢 Square Trade Revenue Leakage Scraper
+https://www.squaretrade.com/
+
 #### Tools & Technologies
 Python, Scrapy, Postgresql, Redis, AWS
+
 #### About
 This project involved scraping data from various e-commerce merchants for their products across multiple categories. The data collected included product names, prices, descriptions, specifications, protection plans, manufacturer and model information, warranties, summary, breadcrumb, category, and subcategory. The scraping process was optimized using a Redis queue, and the entire infrastructure was deployed on AWS ECS and Lambda.
 
@@ -124,6 +133,8 @@ Overall, this project demonstrates my proficiency in Python programming, web scr
 
 
 ### 🟢 Data Collection and Management for Autoprotect.ai
+https://www.autoprotect.ai
+
 #### Tools & Technologies
 Python, Django
 #### About
