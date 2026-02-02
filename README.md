@@ -1,5 +1,5 @@
 # Major Projects
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) The Entertainer App
+### 🟢 The Entertainer App
 https://www.theentertainerme.com/
 #### Tools & Technologies
 Flask, MySQL, Elastic Search and AWS
@@ -14,12 +14,16 @@ Played part as full stack backend developer, wrote cron jobs and deployed codes 
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) HelixGPT Manager
+### 🟢 HelixGPT Manager
 https://www.bmc.com/it-solutions/helixgpt.html
 #### Tools & Technologies
 Fast API, Langchain
 #### About
-HelixGPT Manager is an advanced solution designed to streamline internal development processes by leveraging the power of large language models (LLMs). This project focuses on retrieving logs from various sources such as Jira, Splunk, and ServiceNow, and training multiple LLMs on this data. The goal is to enable internal development teams to interact with these models through a chat interface, allowing them to solve issues efficiently and access detailed analytics. The project is built using LangChain for orchestrating LLMs and FastAPI for serving the application.
+HelixGPT Manager is a large-scale, enterprise-grade Generative AI platform designed to help organizations build and manage AI-powered chatbots and assistants using their internal platform data. It enables customers to connect multiple enterprise systems and expose their knowledge through secure, conversational AI experiences.
+
+Led the design and development of this multi-tenant, highly scalable RAG-based system, integrating data from platforms such as Jira, ServiceNow, SharePoint, Confluence, XWiki, and Elasticsearch. Architected end-to-end pipelines to ingest, normalize, and index massive volumes of heterogeneous enterprise data into OpenSearch, enabling fast and accurate retrieval at scale.
+
+Implemented retrieval-augmented generation (RAG) workflows to deliver context-aware responses while enforcing strict tenant isolation, security, and access controls. Optimized the platform for high throughput, low latency, and reliability, supporting production workloads across multiple enterprise customers. Collaborated with cross-functional teams to align AI capabilities with real-world service management and knowledge discovery use cases.
 
 
 
@@ -27,7 +31,7 @@ HelixGPT Manager is an advanced solution designed to streamline internal develop
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Chat With Company Policies
+### 🟢 Chat With Company Policies
 https://github.com/arslansherazi/chat-with-company-policies
 #### Tools & Technologies
 Langchain, RAG
@@ -42,7 +46,7 @@ This project showcases the application of advanced AI to streamline internal kno
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Youhue: A Student Emotional Management Platform
+### 🟢 Youhue: A Student Emotional Management Platform
 https://www.theentertainerme.com/
 #### Tools & Technologies
 Django, AWS, Postgres, DRF
@@ -61,7 +65,7 @@ With Youhue, teachers can create a more positive and supportive learning environ
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Square Trade Revenue Leakage Scraper
+### 🟢 Square Trade Revenue Leakage Scraper
 #### Tools & Technologies
 Python, Scrapy, Postgresql, Redis, AWS
 #### About
@@ -84,7 +88,7 @@ The scraped data was stored in a PostgreSQL database before being used to genera
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) E-commerce Website Crawler Python Library
+### 🟢 E-commerce Website Crawler Python Library
 #### Tools & Technologies
 Python, Scrapy
 #### About
@@ -112,7 +116,7 @@ Overall, this project demonstrates my proficiency in Python programming, web scr
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Data Collection and Management for Autoprotect.ai
+### 🟢 Data Collection and Management for Autoprotect.ai
 #### Tools & Technologies
 Python, Django
 #### About
@@ -130,7 +134,7 @@ Overall, the customized Django Admin portal that I developed has significantly i
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Python Search (Microservice)
+### 🟢 Python Search (Microservice)
 #### Tools & Technologies
 Flask and Elastic Search
 #### About
@@ -144,7 +148,7 @@ Backend development through Flask utilizing Elastic Search
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Delivery Cashless (Microservice)
+### 🟢 Delivery Cashless (Microservice)
 #### Tools & Technologies
 Utilized Flask, MySQL, Elastic Search and AWS 
 #### About
@@ -158,7 +162,7 @@ Played part in backend development in Flask and Elastic Search. Also deployed co
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Social Media App Backend - A Fully Functional API
+### 🟢 Social Media App Backend - A Fully Functional API
 #### Tools & Technologies
 Flask, MongoDB, PostgreSQL, Elastic Search and AWS
 #### About
@@ -177,7 +181,7 @@ Backend development through Flask utilizing MongoDB, PostgreSQL and Elastic Sear
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Online Food Depot App & Merchant Portal
+### 🟢 Online Food Depot App & Merchant Portal
 #### Tools & Technologies
 Django, MySQL, Elastic Search & AWS
 #### About
@@ -190,7 +194,7 @@ Coded backend in Django utilizing MySQL and Elastic Search and deployed codes to
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Pockiit
+### 🟢 Pockiit
 #### Features
 Flask, MySQL, Elastic Search and AWS
 #### About
@@ -202,7 +206,7 @@ Backend development through Flask utilizing MySQL and Elastic Search
 
 
 
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Munch
+### 🟢 Munch
 ##### Features
 Flask, MySQL and Elastic Search to design snack delivery app
 #### About
@@ -215,4 +219,119 @@ Munch's delivery process is contactless, with users ordering and paying through 
 Overall, Munch is a user-friendly and convenient food delivery app that supports local businesses in Dubai. Its unbeatable offers and rewards incentivize users to order more frequently, while also helping to promote a sustainable and vibrant local food culture.
 #### Responsibilities
 Backend development through Flask utilizing MySQL and Elastic Search
+
+
+
+
+
+
+### 🟢 AI Healthcare Assistant - Multi-Agent System for Medical Record & Appointment Management
+An intelligent healthcare management system leveraging Google's Agent Development Kit (ADK) and A2A Protocol to streamline medical record management and appointment scheduling for healthcare providers and patients.
+
+𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
+🏥 𝐃𝐮𝐚𝐥-𝐀𝐠𝐞𝐧𝐭 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: Specialized AI agents for appointment management and medical history tracking with intelligent routing through a root guardrails agent
+📅 𝐀𝐩𝐩𝐨𝐢𝐧𝐭𝐦𝐞𝐧𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Complete appointment lifecycle management including booking, cancellation, rescheduling, and status tracking for both doctors and patients
+📋 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐑𝐞𝐜𝐨𝐫𝐝 𝐒𝐲𝐬𝐭𝐞𝐦: Comprehensive medical history management with diagnosis tracking, symptom documentation, treatment plans, and medication records
+🔒 𝐒𝐚𝐟𝐞𝐭𝐲 & 𝐂𝐨𝐦𝐩𝐥𝐢𝐚𝐧𝐜𝐞: Built-in guardrails ensuring HIPAA compliance and preventing unauthorized medical advice
+📊 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 & 𝐑𝐞𝐩𝐨𝐫𝐭𝐢𝐧𝐠: Medical statistics, patient comparison tools, and comprehensive reporting capabilities for healthcare providers within the chatbot
+
+𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗜𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝘁𝗶𝗼𝗻:
+𝐌𝐮𝐥𝐭𝐢-𝐀𝐠𝐞𝐧𝐭 𝐒𝐲𝐬𝐭𝐞𝐦: Root guardrails agent with specialized sub-agents for appointments and medical history
+𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞:PostgreSQL with SQLAlchemy ORM for robust data management
+𝐀𝐏𝐈 𝐈𝐧𝐭𝐞𝐠𝐫𝐚𝐭𝐢𝐨𝐧: RESTful services with A2A protocol for agent-to-agent communication
+𝐑𝐨𝐥𝐞-𝐁𝐚𝐬𝐞𝐝 𝐀𝐜𝐜𝐞𝐬𝐬: Secure user authentication with doctor/patient role separation
+𝐃𝐚𝐭𝐚 𝐌𝐢𝐠𝐫𝐚𝐭𝐢𝐨𝐧: Alembic for database schema management and versioning
+
+𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
+✅ Python 3.13
+✅ Google ADK
+✅ A2A Protocol
+✅ PostgreSQL
+✅ SQLAlchemy
+✅ Alembic
+✅ Uvicorn
+
+
+
+
+### 🟢 AI Travel Assistant - Multi-Agent Travel Planning System
+A comprehensive AI-powered travel assistant built using OpenAI's Agents SDK and Model Context Protocol (MCP) for intelligent travel planning and recommendations.
+
+#### 𝗖𝗼𝗿𝗲 𝗙𝘂𝗻𝗰𝘁𝗶𝗼𝗻𝗮𝗹𝗶𝘁𝘆:
+The system processes natural language travel queries and coordinates between specialized agents to provide comprehensive responses. Users can request weather forecasts, discover attractions, search accommodations, and generate detailed itineraries through conversational interactions.
+
+#### 𝗞𝗲𝘆 𝘁𝗲𝗰𝗵nical 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
+1. Multi-agent architecture with specialized agents for weather, bookings, places discovery, and trip planning
+2. Intelligent query routing through a controller agent that analyzes user intent
+3. Integration with OpenTripMap API providing access to 10M+ global tourist attractions
+4. Real-time weather forecasting using Open-Meteo API
+5. Interactive web interface built with Gradio for seamless user experience
+6. Created production-ready deployment pipeline with containerization
+
+#### 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
+𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Python, OpenAI Agents SDK & FastMCP servers
+𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: Gradio web interface with responsive design
+𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬: OpenTripMap, Open-Meteo, Booking.com APIs
+𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭: Docker containerization with Docker Compose orchestration
+𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: Microservices with 5 independent MCP servers and 1 Frontend service
+
+#### 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: 
+𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Python, OpenAI Agents SDK & FastMCP servers 
+𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: Gradio web interface with responsive design 
+𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬: OpenTripMap, Open-Meteo, Booking.com APIs 
+𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭: Docker containerization with Docker Compose orchestration 
+𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: Microservices with 5 independent MCP servers and 1 Frontend service
+
+#### Skills: 
+OpenAI Agents SDK · Generative AI · Large Language Models (LLM)
+
+
+
+
+
+
+### 🟢 Generative AI: Multi-Agent System for Collaborative Problem Solving with AutoGen
+Developed a multi-agent application using AutoGen to simulate collaborative problem-solving through AI-driven agents. The system features agents like "IdeaAgent" and "CriticAgent" that work together to generate, refine, and evaluate innovative concepts in real-time. By leveraging AutoGen, the project showcases the power of generative AI in collaborative ideation and decision-making, enabling efficient and scalable problem-solving workflows.
+
+
+
+
+### 🟢 Movie Graph RAG – Intelligent Q&A over Movie Knowledge Graph
+Graph-based Retrieval-Augmented Generation (RAG) system for querying movies data using Neo4j and LangChain, leveraging the power of LLMs for natural language understanding and Cypher query generation.
+
+This project creates a structured Knowledge Graph of popular movies, their directors, actors, and ratings—interlinked and queryable using natural language.
+
+#### 🔧 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀 𝗨𝘀𝗲𝗱:
+𝙉𝙚𝙤4𝙟: To create and store an expressive knowledge graph representing movies, actors, directors, and ratings.
+
+𝙇𝙖𝙣𝙜𝘾𝙝𝙖𝙞𝙣: Used to orchestrate LLM chains and handle query routing, graph context injection, and prompt design.
+
+𝙂𝙧𝙖𝙥𝙝 𝙍𝘼𝙂: Custom Graph Retrieval-Augmented Generation setup with Cypher query generation and dynamic LLM-based response synthesis.
+
+𝙊𝙥𝙚𝙣𝘼𝙄: To intelligently generate Cypher queries and summarize responses from the knowledge graph.
+
+𝙋𝙮𝙩𝙝𝙤𝙣: For full backend implementation, graph population, and data integration.
+
+#### ⚙️ 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
+ 1. Natural language interface to ask movie-related questions like:
+
+ - "Which movies has Shah Rukh Khan done with Karan Johar?"
+
+ - "List all movies directed by Rajkumar Hirani with Aamir Khan."
+
+ - "Give me all high-rated movies by Quentin Tarantino"
+
+ 2. Ratings support to filter or rank movie recommendations.
+
+ 3. Modular design to scale or swap datasets (e.g., add genre, year, awards).
+
+ 4. LLM-generated Cypher queries
+
+#### 𝗨𝘀𝗲 𝗖𝗮𝘀𝗲𝘀:
+ 1. Conversational search for media platforms.
+ 2. Graph-based recommender system foundation.
+ 3. A sandbox project to learn Graph RAG patterns with LangChain and Neo4j.
+
+#### Skills: 
+LangChain · Python (Programming Language) · Retrieval-Augmented Generation (RAG)
 
