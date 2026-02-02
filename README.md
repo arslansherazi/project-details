@@ -279,8 +279,8 @@ Backend development through Flask utilizing MySQL and Elastic Search
 ### 🟢 AI Healthcare Assistant - Multi-Agent System for Medical Record & Appointment Management
 An intelligent healthcare management system leveraging Google's Agent Development Kit (ADK) and A2A Protocol to streamline medical record management and appointment scheduling for healthcare providers and patients.
 
-𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀:
-🏥 𝐃𝐮𝐚𝐥-𝐀𝐠𝐞𝐧𝐭 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: Specialized AI agents for appointment management and medical history tracking with intelligent routing through a root guardrails agent
+𝗞𝗲𝘆 𝗙𝗲𝗮𝘁𝘂𝗿𝗲𝘀: <br>
+🏥 𝐃𝐮𝐚𝐥-𝐀𝐠𝐞𝐧𝐭 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: Specialized AI agents for appointment management and medical history tracking with intelligent routing through a root guardrails agent <br>
 📅 𝐀𝐩𝐩𝐨𝐢𝐧𝐭𝐦𝐞𝐧𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Complete appointment lifecycle management including booking, cancellation, rescheduling, and status tracking for both doctors and patients<br>
 📋 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐑𝐞𝐜𝐨𝐫𝐝 𝐒𝐲𝐬𝐭𝐞𝐦: Comprehensive medical history management with diagnosis tracking, symptom documentation, treatment plans, and medication records<br>
 🔒 𝐒𝐚𝐟𝐞𝐭𝐲 & 𝐂𝐨𝐦𝐩𝐥𝐢𝐚𝐧𝐜𝐞: Built-in guardrails ensuring HIPAA compliance and preventing unauthorized medical advice<br>
