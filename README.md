@@ -320,7 +320,7 @@ The system processes natural language travel queries and coordinates between spe
 6. Created production-ready deployment pipeline with containerization
 
 #### 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀:
-𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Python, OpenAI Agents SDK & FastMCP servers
+𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Python, OpenAI Agents SDK & FastMCP servers <br>
 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: Gradio web interface with responsive design <br>
 𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬: OpenTripMap, Open-Meteo, Booking.com APIs <br>
 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭: Docker containerization with Docker Compose orchestration <br>
