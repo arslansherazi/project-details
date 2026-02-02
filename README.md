@@ -73,12 +73,19 @@ This project involved scraping data from various e-commerce merchants for their 
 
 The project involved scraping data from the following e-commerce merchants:
 
-Costco<br>
-Newegg<br>
-Homedepot<br>
-NFM<br>
-Crutchfield <br>
-HSN <br>
+Costco
+Newegg
+Homedepot
+NFM
+Crutchfield
+HSN
+QVC
+OfficeDepot
+Amazon
+eBay
+ABT
+Samsclub
+Target
 
 The scraped data was stored in a PostgreSQL database before being used to generate Google Sheets using Google APIs.
 
@@ -182,12 +189,45 @@ Backend development through Flask utilizing MongoDB, PostgreSQL and Elastic Sear
 
 
 ### 🟢 Online Food Depot App & Merchant Portal
-#### Tools & Technologies
-Django, MySQL, Elastic Search & AWS
-#### About
-Mobile application which helps users to order or takeaway food. User can search food items of their choice and add multiple items in the cart from same merchant and then place an order. They can track order until delivery, give rating and reviews for items and reorder as well. The Merchant Portal of the app lets the registered merchants edit their menus, add new items into menus, accept/reject and track orders.
-#### Responsibilities
-Coded backend in Django utilizing MySQL and Elastic Search and deployed codes to AWS
+Online Food Depot is a mobile application which helps users to order or takeaway food. user can search food items of his/her choice and add multiple items in the cart from same merchant and then place an order. He/She can track his order until delivery. Finally he can give rating and reviews for items and can reorder as well.
+
+This application has the following apis at backend side
+
+#### 𝗕𝘂𝘆𝗲𝗿
+- login
+- signup
+- forgot password
+- home api
+- place order
+- reoder
+- favorites
+- order satus
+- profile
+- delete user
+- items listing
+- item details
+- item rating 
+
+#### 𝗠𝗲𝗿𝗰𝗵𝗮𝗻𝘁
+- create menu
+- create menu item
+- orders listing
+- change order status
+
+#### 𝗙𝗶𝗹𝘁𝗲𝗿𝘀
+- Merchant can filter orders on base of date, buyer name and order no
+- Buyer can search items by name
+- Buyer can find nearby items on home screen
+- Buyer can find top rated items on home screen
+- Buyer can search items and find sorted list on basis of distance
+- Buyer can find takeaway and delivery items
+- Buyer can see distance between merchant and him/her in case of takeaway
+- Buyer can see delivery time in case of delivery item
+- Merchant can offer itself as takeaway, delivery or both
+- Merchant can add driver information in case of delivery
+
+#### 𝑹𝒆𝒔𝒑𝒐𝒏𝒔𝒊𝒃𝒊𝒍𝒊𝒕𝒊𝒆𝒔:
+Coded backend in Django utilizing MySQL and Elastic Search and deployed codes to AWS. Wrote frontend in React for merchant portal and used React Native for developing mobile app.
 
 
 
@@ -275,13 +315,6 @@ The system processes natural language travel queries and coordinates between spe
 𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭: Docker containerization with Docker Compose orchestration
 𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: Microservices with 5 independent MCP servers and 1 Frontend service
 
-#### 𝗧𝗼𝗼𝗹𝘀 & 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝗶𝗲𝘀: 
-𝐁𝐚𝐜𝐤𝐞𝐧𝐝: Python, OpenAI Agents SDK & FastMCP servers 
-𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝: Gradio web interface with responsive design 
-𝐃𝐚𝐭𝐚 𝐒𝐨𝐮𝐫𝐜𝐞𝐬: OpenTripMap, Open-Meteo, Booking.com APIs 
-𝐃𝐞𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭: Docker containerization with Docker Compose orchestration 
-𝐀𝐫𝐜𝐡𝐢𝐭𝐞𝐜𝐭𝐮𝐫𝐞: Microservices with 5 independent MCP servers and 1 Frontend service
-
 #### Skills: 
 OpenAI Agents SDK · Generative AI · Large Language Models (LLM)
 
@@ -335,3 +368,48 @@ This project creates a structured Knowledge Graph of popular movies, their direc
 #### Skills: 
 LangChain · Python (Programming Language) · Retrieval-Augmented Generation (RAG)
 
+
+
+
+
+
+### 🟢 E-commerce Chatbot: Virtual Shopping Assistant (Python | LangChain)
+An advanced AI-powered chatbot that serves as the virtual representative of an e-commerce company, providing real-time responses to user queries. It seamlessly handles inquiries about product availability, pricing, manufacturer details, stock status (in-stock or out-of-stock), and protection plans.
+
+Built using the LangChain framework, the chatbot leverages AI agents to intelligently manage diverse user questions, ensuring accurate and efficient communication. This solution enhances customer experience by delivering instant, comprehensive support for all e-commerce-related queries.
+
+
+
+
+### 🟢 HiringGuru (Python - Django - AWS)
+
+This project is a web-based application designed to facilitate technical assessments for hiring software engineers, project managers, and other roles within a software company. The platform includes a diverse set of questions across various sections, allowing the admin to generate test links and invite candidates for assessments. Admins can add new questions or select from the existing pool, creating a mix of multiple-choice and theory-based questions. 
+
+#### Key features include:
+- Test link generation and candidate invitation
+- Question management (adding new questions and using existing ones)
+- A test timer
+- The ability for candidates to reattempt the test in case of internet or power failures, if permitted by the admin
+- Admin access to the list of invited candidates and detailed test reports for each candidate
+
+#### My Role:
+I worked as a backend engineer, utilizing the Django framework. I was also responsible for deploying the project on AWS.
+
+
+
+
+
+### 🟢 Merchant Search (Flask - ElasticSearch - MYSQL)
+https://www.theentertainerme.com/search/outlets
+
+Merchant search is a search portal to search various merchants registered with company and available on different locations. One can search merchants by location, name and cuisines etc. When user searches merchant its recent searches will also display in drop down and system also shown him/her suggestions. Fuzzy search is also supported by our system.This system also supports different kinds of filters for searching merchants. Following is the list of filters supported by this system
+- Product
+- Offer type
+- Merchant Category
+- Merchant Sub Category
+- Offers
+
+Following technologies are used to develop this system
+- Flask
+- ElasticSearch
+- MySQL
